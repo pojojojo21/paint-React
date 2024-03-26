@@ -3,6 +3,7 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background-color: rgba(251, 228, 198, 0.632);
 }
 
 .logo {
@@ -62,4 +63,5 @@
 
 canvas {
   border: 1px solid #000;
+  background-color: white;
 }
